@@ -7,3 +7,5 @@ Commands:
 - resplug setspawn [guest/vip/staff] (resplug.main.setspawn)
 
 Spawnpoints and most messages are configurable in config.yml
+
+# MOVED TO [PERSONAL PROFILE](https://github.com/VoidemLIVE/Respawn-Plugin)
